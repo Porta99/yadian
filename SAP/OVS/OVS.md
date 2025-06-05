@@ -9,3 +9,5 @@ El OVS funciona en 4 fases:
 3. **Fase 2 (Resultados)**: Procesa la búsqueda y devuelve resultados
     
 4. **Fase 3 (Selección)**: Aplica el valor seleccionado
+
+6.
